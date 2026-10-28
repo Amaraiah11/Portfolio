@@ -1,7 +1,7 @@
 # 🌐 Personal Developer Portfolio — Responsive Web Showcase & Architecture
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1D4ED8,60A5FA&height=220&section=header&text=Personal%20Developer%20Portfolio&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Web%20Showcase%20of%20Projects%2C%20Technical%20Skills%20%26%20Engineering%20Work&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Personal Developer Portfolio Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:60A5FA&customColorList=0F172A,1D4ED8,60A5FA&height=220&section=header&text=Personal%20Developer%20Portfolio&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Responsive%20Web%20Showcase%20of%20Projects%2C%20Technical%20Skills%20%26%20Engineering%20Work&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Personal Developer Portfolio Banner" />
 </p>
 
 <p align="center">
@@ -175,5 +175,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1D4ED8,60A5FA&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:60A5FA&customColorList=0F172A,1D4ED8,60A5FA&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
